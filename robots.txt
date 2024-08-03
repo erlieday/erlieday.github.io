@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erlieday.github.io/sitemap.html.gz
+Sitemap: https://erlieday.github.io/app/sitemap.html.gz
+Sitemap: https://erlieday.github.io/assets/sitemap.html.gz
+Sitemap: https://erlieday.github.io/css/sitemap.html.gz
+Sitemap: https://erlieday.github.io/includes/sitemap.html.gz
+Sitemap: https://erlieday.github.io/item/sitemap.html.gz
+Sitemap: https://erlieday.github.io/src/sitemap.html.gz
